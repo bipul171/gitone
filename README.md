@@ -1,2 +1,2 @@
 # gitone
-Nothing
+I am learning Git and Github
